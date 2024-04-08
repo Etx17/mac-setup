@@ -1,5 +1,1 @@
-ffmpeg
-imagemagick
-wget
-telnet
-tldr
+
